@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Agent
+  - Target
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - AgentColliders
+  - AgentDamageColliders
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 1891841997
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Low
+    uniqueID: 3581370487
+    locked: 0
+  - name: Characters
+    uniqueID: 666897453
+    locked: 0
+  - name: High
+    uniqueID: 1422248273
+    locked: 0
+  - name: UI
+    uniqueID: 2720897385
+    locked: 0
